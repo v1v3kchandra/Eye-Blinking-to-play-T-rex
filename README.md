@@ -15,3 +15,7 @@
 - Run this command on your terminal "python blink.py -p shape_predictor_68_face_landmarks.dat".(Note: mention the path of your shape_predictor_68_face_landmarks.dat if its outside the same folder, else just the name is enough)
 ## Demo
 !["DEMO"](demo/demo.gif)
+## Acknowledgement
+- Thanks to Adrian Rosebrock for his works on facial landmarks ,I was able to make this happen.
+
+Please notify for any queries, Thank You!
